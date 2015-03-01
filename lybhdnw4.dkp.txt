@@ -1,0 +1,20 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   common.hpp
+#	new file:   function.hpp
+#	new file:   graph.hpp
+#	new file:   main.cpp
+#	new file:   net_algo.hpp
+#	new file:   net_ops.hpp
+#	new file:   net_ops_2.hpp
+#	new file:   net_ops_w_NOI.hpp
+#	new file:   net_theory.hpp
+#	new file:   node.hpp
+#	new file:   seed.dat
+#	new file:   temp.cpp
+#	new file:   theory.cpp
+#
+
